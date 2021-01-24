@@ -17,4 +17,5 @@ Sequential Model is used
 
 # Find on Details
 Link 1: https://towardsdatascience.com/implementing-alexnet-cnn-architecture-using-tensorflow-2-0-and-keras-2113e090ad98
+
 Link 2: https://www.youtube.com/watch?v=7LQSdPjWjdA
