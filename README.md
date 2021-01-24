@@ -7,6 +7,9 @@ Used on CIFAR 10 Dataset (32*32 dimension) with 3 chanels (RGB)
 Sequential Model is used
 5 convulutional layers and 3 dense layers are implemented
 
+# Architecture
+![AlexNet-1](https://user-images.githubusercontent.com/61561356/105619544-e1b36a80-5df3-11eb-92ce-bf859e2e95de.png)
+
    # Data Preprocessing
    From 50,000 training set, 5,000 data are selected for validation test
    10,000 data are used for testing purpose
